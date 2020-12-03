@@ -1,0 +1,16 @@
+Corriger exercices semaine 9 (videos + github )
+
+Regarder S10_01_POO1_Constructeurs.mkv
+Faire exercice s10.1 10.2 10.3
+
+Regarder S10_02_POO1_MotCleNull.mkv
+Regarder S10_03_POO1_ModificateurAcces.mkv
+Faire exercice s10.4 10.5 10.6
+
+Regarder S10_04_POO1_ModificateurStatic.mkv
+Faire exercice s10.7
+
+Regarder S10_05_POO1_MéthodeToString.mkv
+Faire exercice s10.8 10.9 10.10
+
+Faire exercice s10.11
